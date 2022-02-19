@@ -1,0 +1,43 @@
+{
+    "ac_kwargs":	{
+        "hidden_sizes":	[
+            32,
+            32
+        ]
+    },
+    "actor_critic":	"MLPActorCritic",
+    "clip_ratio":	0.1,
+    "env_fn":	"<function call_experiment.<locals>.thunk_plus.<locals>.<lambda> at 0x7efd9ade61e0>",
+    "epochs":	10,
+    "exp_name":	"new",
+    "gamma":	0.999,
+    "lam":	0.97,
+    "logger":	{
+        "<spinup.utils.logx.EpochLogger object at 0x7efcdd2f5dd8>":	{
+            "epoch_dict":	{},
+            "exp_name":	"new",
+            "first_row":	true,
+            "log_current_row":	{},
+            "log_headers":	[],
+            "output_dir":	"/home/wang/Desktop/RL_HarshTerrain_planning/spinningup-master/data/new/new_s0",
+            "output_file":	{
+                "<_io.TextIOWrapper name='/home/wang/Desktop/RL_HarshTerrain_planning/spinningup-master/data/new/new_s0/progress.txt' mode='w' encoding='UTF-8'>":	{
+                    "mode":	"w"
+                }
+            }
+        }
+    },
+    "logger_kwargs":	{
+        "exp_name":	"new",
+        "output_dir":	"/home/wang/Desktop/RL_HarshTerrain_planning/spinningup-master/data/new/new_s0"
+    },
+    "max_ep_len":	1000,
+    "pi_lr":	0.0002,
+    "save_freq":	1,
+    "seed":	0,
+    "steps_per_epoch":	100,
+    "target_kl":	0.01,
+    "train_pi_iters":	80,
+    "train_v_iters":	80,
+    "vf_lr":	0.001
+}

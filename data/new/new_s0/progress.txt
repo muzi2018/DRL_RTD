@@ -1,0 +1,11 @@
+Epoch	AverageEpRet	StdEpRet	MaxEpRet	MinEpRet	EpLen	AverageVVals	StdVVals	MaxVVals	MinVVals	TotalEnvInteracts	LossPi	LossV	DeltaLossPi	DeltaLossV	Entropy	KL	ClipFrac	StopIter	Time
+0	-3.78	3.643295	-0.5	-10.9	20.0	0.07639008	0.1054079	0.16921374	-0.3675399	100	-0.005509913	21.068993	-0.036658183	-8.783765	0.9189385	0.0035964437	0.26999998	79.0	885.3818736076355
+1	-2.5	0.0	-2.5	-2.5	25.0	-2.6855586	0.10717535	-2.4550374	-3.165864	200	-0.0018232912	2.3192785	-0.030041674	-1.8278664	0.9048342	0.0136219915	0.34	79.0	1776.3888521194458
+2	-4.633333	3.088509	-2.3	-9.0	16.666666	nan	nan	-3.9034169	-4.1064887	300	nan	nan	nan	nan	0.9012201	nan	0.0	79.0	2678.4424703121185
+3	-3.78	2.6102874	-2.4	-9.0	20.0	nan	nan	nan	nan	400	nan	nan	nan	nan	nan	nan	0.0	79.0	2680.748531103134
+4	-3.78	2.6102874	-2.4	-9.0	20.0	nan	nan	nan	nan	500	nan	nan	nan	nan	nan	nan	0.0	79.0	2682.8780374526978
+5	-2.5	0.0	-2.5	-2.5	25.0	nan	nan	nan	nan	600	nan	nan	nan	nan	nan	nan	0.0	79.0	2684.9332978725433
+6	-3.78	2.6102874	-2.4	-9.0	20.0	nan	nan	nan	nan	700	nan	nan	nan	nan	nan	nan	0.0	79.0	2687.019637823105
+7	-3.78	2.6102874	-2.4	-9.0	20.0	nan	nan	nan	nan	800	nan	nan	nan	nan	nan	nan	0.0	79.0	2689.248295068741
+8	-2.5	0.0	-2.5	-2.5	25.0	nan	nan	nan	nan	900	nan	nan	nan	nan	nan	nan	0.0	79.0	2691.3001849651337
+9	-2.5	0.0	-2.5	-2.5	25.0	nan	nan	nan	nan	1000	nan	nan	nan	nan	nan	nan	0.0	79.0	2693.4865317344666
